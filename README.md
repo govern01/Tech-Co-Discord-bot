@@ -35,3 +35,12 @@ These are not slotted to be implemented and may never be, but might be nice qual
   - Used for containing the events, member and guild data in one place.
 - discord.py
   - Used for communicating with the discord api
+
+## Setup
+
+1. Fork the repository to your directory of choice
+2. Setup a virtual environment [optional]
+3. Download discord.py via pip `pip install discord.py`
+4. Create a bot account on `discord.com/developers`, plug the bot token into `bot.ini`
+5. For developer functionality copy your discord id and plug it into `bot.ini`
+6. Start developing!!
